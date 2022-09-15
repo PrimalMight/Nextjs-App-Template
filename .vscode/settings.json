@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true, // run prettier on every save file?
+    "source.organizeImports": true // alfabetical order imports automatically after saving a file
+  }
+}
